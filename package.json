@@ -1,0 +1,33 @@
+{
+  "name": "dark-mode-example",
+  "version": "0.1.0",
+  "private": true,
+  "main": "src/app.js",
+  "dependencies": {
+    "@emotion/core": "^10.0.7",
+    "@emotion/styled": "^10.0.7",
+    "emotion-theming": "^10.0.7",
+    "react": "^16.8.6",
+    "react-avatar-edit": "^0.8.3",
+    "react-burger-menu": "^2.6.10",
+    "react-dom": "^16.8.6",
+    "react-dropzone": "^6.2.4",
+    "react-images-upload": "^1.2.7",
+    "react-scripts": "2.1.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
